@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="96px" viewBox="0 0 83 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="41.5 0 83 23.9600362 83 71.8801085 41.5 95.8401447 -3.64153152e-14 71.8801085 -6.30606678e-14 23.9600362"></polygon>
+        <circle id="path-2" cx="22.5" cy="27.5" r="5.5"></circle>
+        <circle id="path-3" cx="72.5" cy="35.5" r="5.5"></circle>
+        <circle id="path-4" cx="66.1399674" cy="60.0234991" r="5.5"></circle>
+        <circle id="path-5" cx="10.5" cy="50.5" r="5.5"></circle>
+        <circle id="path-6" cx="25.5" cy="72.5" r="5.5"></circle>
+    </defs>
+    <g id="web设计图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920首页-copy" transform="translate(-726.000000, -1670.000000)">
+            <g id="4" transform="translate(726.000000, 1670.000000)">
+                <g id="Polygon">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#2D5891" stroke-width="1" d="M41.5,0.577350269 L0.5,24.2487113 L0.5,71.5914334 L41.5,95.2627944 L82.5,71.5914334 L82.5,24.2487113 L41.5,0.577350269 Z"></path>
+                </g>
+                <g id="Oval-10">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="22.5" cy="27.5" r="5"></circle>
+                </g>
+                <g id="Oval-10-Copy">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="72.5" cy="35.5" r="5"></circle>
+                </g>
+                <g id="Oval-10-Copy-2">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="66.1399674" cy="60.0234991" r="5"></circle>
+                </g>
+                <g id="Oval-10-Copy-4">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="10.5" cy="50.5" r="5"></circle>
+                </g>
+                <g id="Oval-10-Copy-3">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="25.5" cy="72.5" r="5"></circle>
+                </g>
+                <path d="M27.5220415,27.0751615 L48.2565568,27.0751615 L48.2565568,27.0751615 C48.7869898,27.0751615 49.2956976,27.2858751 49.6707704,27.6609479 L56.87925,34.8694276 L56.87925,34.8694276 C57.2670765,35.257254 57.7971555,35.4687921 58.3454396,35.4545385 L67.2751353,35.2223949" id="Path-2" stroke="#2D5891"></path>
+                <path d="M16,51 L38.4300003,51" id="Path-3" stroke="#2D5891"></path>
+                <path d="M30.6103428,72.6229961 L38.2072271,72.6229961 L38.2072271,72.6229961 C38.9978467,72.6229961 39.7142614,72.1572473 40.0351213,71.4346629 L44.5707174,61.2203868 L44.5707174,61.2203868 C44.8915772,60.4978024 45.607992,60.0320537 46.3986115,60.0320537 L60.6826196,60.0320537" id="Path-4" stroke="#2D5891"></path>
+            </g>
+        </g>
+    </g>
+</svg>

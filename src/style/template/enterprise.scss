@@ -1,0 +1,104 @@
+// 企业文化
+.tpl-enterprise-list {
+    li {
+        position: relative;
+        float: left;
+        width: 33.3%;
+        height:680px;
+        overflow: visible;
+        .text, .image {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            padding: 38% 0;
+            overflow: hidden;
+        }
+        .text {
+            background: $blue;
+            color: $white;
+            & > div {
+                position: absolute;
+                padding: 15% 20%;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                h4 {
+                    font-weight: normal;
+                    font-size: 2rem;
+                    margin-bottom: 20px;
+                }
+                p {
+                    margin: 0;
+                    line-height: 1.8;
+                    font-size: 1.2rem;
+                }
+            }
+        }
+        .image {
+            img {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: auto;
+            }
+        }
+        &:nth-child(even) {
+            .text {
+                margin-top: 76%;
+            }
+        }
+        &:nth-child(odd) {
+            .image {
+                margin-top: 76%;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    // 企业文化
+    .tpl-enterprise-list {
+        li {
+            float: inherit;
+            width: 100%;
+            height: auto;
+            clear: both;
+            .text, .image {
+                position: relative;
+                // width: 50%;
+                // padding: 19% 0;
+            }
+            .text {
+                & > div {
+                    padding: 0;
+                    padding-top: 25%;
+                    text-align: center;
+                    vertical-align: middle;
+                    h4 {
+                        font-size: 1.6rem;
+                        margin-bottom: 5px;
+                    }
+                }
+            }
+            &:nth-child(odd) {
+                .text, .image {
+                    
+                }
+                .image {
+                    margin-top: 0;
+                }
+            }
+            &:nth-child(even) {
+                .text {
+                    margin-top: 0;
+                }
+                .text, .image {
+                    
+                }
+            }
+        }
+    }
+}

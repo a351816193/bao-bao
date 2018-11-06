@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="83px" viewBox="0 0 84 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="45" r="5"></circle>
+        <circle id="path-2" cx="47" cy="24" r="5"></circle>
+        <circle id="path-3" cx="47" cy="65" r="5"></circle>
+    </defs>
+    <g id="web设计图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920首页-copy" transform="translate(-186.000000, -1677.000000)">
+            <g id="1" transform="translate(186.000000, 1674.000000)">
+                <path d="M24,0.577350269 L3.71539031,12.2886751 L3.71539031,35.7113249 L24,47.4226497 L44.2846097,35.7113249 L44.2846097,12.2886751 L24,0.577350269 Z" id="Polygon-2" stroke="#2D5891" transform="translate(24.000000, 24.000000) rotate(-270.000000) translate(-24.000000, -24.000000) "></path>
+                <path d="M24.0743096,41.1472311 L3.7896999,52.858556 L3.7896999,76.2812057 L24.0743096,87.9925306 L44.3589193,76.2812057 L44.3589193,52.858556 L24.0743096,41.1472311 Z" id="Polygon-2-Copy-4" stroke="#2D5891" transform="translate(24.074310, 64.569881) rotate(-270.000000) translate(-24.074310, -64.569881) "></path>
+                <path d="M59.1652508,20.7992239 L38.8806412,32.5105487 L38.8806412,55.9331985 L59.1652508,67.6445233 L79.4498605,55.9331985 L79.4498605,32.5105487 L59.1652508,20.7992239 Z" id="Polygon-2-Copy-4" stroke="#2D5891" transform="translate(59.165251, 44.221874) rotate(-270.000000) translate(-59.165251, -44.221874) "></path>
+                <path d="M36.1652508,20.7992239 L15.8806412,32.5105487 L15.8806412,55.9331985 L36.1652508,67.6445233 L56.4498605,55.9331985 L56.4498605,32.5105487 L36.1652508,20.7992239 Z" id="Polygon-2-Copy-4" stroke="#2D5891" transform="translate(36.165251, 44.221874) rotate(-270.000000) translate(-36.165251, -44.221874) "></path>
+                <g id="Oval-6">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="12" cy="45" r="4.5"></circle>
+                </g>
+                <g id="Oval-6-Copy-4">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="47" cy="24" r="4.5"></circle>
+                </g>
+                <g id="Oval-6-Copy-2">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="47" cy="65" r="4.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

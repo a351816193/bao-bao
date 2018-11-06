@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="96px" viewBox="0 0 95 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="47.5" cy="48.5" r="27.5"></circle>
+        <circle id="path-2" cx="47.5" cy="5.5" r="5.5"></circle>
+        <circle id="path-3" cx="5.5" cy="48.5" r="5.5"></circle>
+        <circle id="path-4" cx="89.5" cy="48.5" r="5.5"></circle>
+        <circle id="path-5" cx="47.5" cy="90.5" r="5.5"></circle>
+    </defs>
+    <g id="web设计图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920首页-copy" transform="translate(-359.000000, -1670.000000)">
+            <g id="2" transform="translate(359.000000, 1670.000000)">
+                <g id="Oval-4">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="47.5" cy="48.5" r="27"></circle>
+                </g>
+                <circle id="Oval-4" stroke="#2D5891" cx="47.5" cy="48.5" r="15"></circle>
+                <rect id="Rectangle-32" fill="#2D5891" x="47" y="10" width="1" height="24"></rect>
+                <rect id="Rectangle-32-Copy-2" fill="#2D5891" transform="translate(20.000000, 48.500000) rotate(-90.000000) translate(-20.000000, -48.500000) " x="19.5" y="36.5" width="1" height="24"></rect>
+                <rect id="Rectangle-32-Copy-3" fill="#2D5891" transform="translate(75.000000, 48.500000) rotate(-90.000000) translate(-75.000000, -48.500000) " x="74.5" y="36.5" width="1" height="24"></rect>
+                <rect id="Rectangle-32-Copy" fill="#2D5891" x="47" y="63" width="1" height="25"></rect>
+                <g id="Oval-7">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="47.5" cy="5.5" r="5"></circle>
+                </g>
+                <g id="Oval-7-Copy-2">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="5.5" cy="48.5" r="5"></circle>
+                </g>
+                <g id="Oval-7-Copy-3">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="89.5" cy="48.5" r="5"></circle>
+                </g>
+                <g id="Oval-7-Copy">
+                    <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#2D5891" stroke-width="1" cx="47.5" cy="90.5" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

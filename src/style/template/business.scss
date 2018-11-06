@@ -1,0 +1,62 @@
+
+// 专业领域
+
+.tpl-business-1 {
+    & > li {
+        display: inline-block;
+        width: 49%;
+        vertical-align: top;
+        margin-top: 15px;
+        &:nth-of-type(even) {
+            float: right;
+        }
+        & > img {
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+
+.tpl-business-2 {
+    font-size: 0;
+    & > li {
+        margin-top: 15px;
+        display: inline-block;
+        margin-right: 1.25%;
+        width: 32.5%;
+        vertical-align: top;
+        font-size: 14px;
+        & > img {
+            width: 100%;
+        }
+        &:nth-of-type(3n) {
+            margin-right: 0;
+        }
+    }
+}
+
+.tpl-business-3 {
+    & > li {
+        img{
+            margin-top: 20px;
+            width: 100%;
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .tpl-business-1 {
+        & > li {
+            width: 100%;
+            &:nth-of-type(even) {
+                float: initial;
+            }
+        }
+    }
+
+    .tpl-business-2 {
+        & > li {
+            width: 100%;
+        }
+    }    
+}

@@ -1,0 +1,35 @@
+// 联系我们
+.tpl-contact-wrap {
+
+    h4 {
+        margin: 35px 0 20px 0;
+        font-size: 18px;
+    }
+    li {
+        font-size: 0;
+        & + li {
+            margin-top: 20px;
+            border-top: 1px dashed $grey1;
+        }
+    }
+    li > div {
+        font-size: 14px;
+        vertical-align: top;
+        display: inline-block;
+        width: 48%;
+        margin-right: 4%;
+        &:last-of-type {
+            margin-right: 0;
+        }
+        &.tpl-contact-single {
+            min-width: fit-content;
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .tpl-contact-wrap > li > div {
+        width: 100%;
+        margin-right: 0;
+    }
+}

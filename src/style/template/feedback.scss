@@ -1,0 +1,65 @@
+// 意见反馈
+.tpl-feedback-form {
+    li {
+        min-height: 50px;
+    }
+    li span {
+        display: inline-block;
+        vertical-align: middle;
+        &:first-of-type {
+            width: 80px;
+            padding-right: 20px;
+            text-align: right;
+        }
+        &:nth-of-type(2) {
+            width: calc(100% - 120px);
+            input {
+                width: 100%;
+                border: 0;
+                border-bottom: 1px solid $grey1;
+                background: none;
+                padding:  10px 5px;
+                color: $blue;
+                &:focus {
+                    border-color: $blue;
+                }
+                &.error {
+                    border-color: $red;
+                }
+            }
+        }
+    }
+    .tpl-feedback-mark {
+        margin-top: 20px;
+        textarea {
+            height: 100px;
+            width: 100%;
+            resize:none;
+            background: none;
+            border-color: $grey1;
+            padding: 10px;
+            &.error {
+                border-color: $red;
+            }
+        }
+    }
+    .tpl-feedback-code {
+        margin-top: 20px;
+        span:nth-of-type(2) {
+            width: 30%;
+        }
+        span:nth-of-type(3) {
+            vertical-align: bottom;
+            height: 40px;
+            width: 120px;
+            img {
+                height: 100%;
+                width: 100%;
+            }
+        }
+    }
+    .tpl-feedback-operate {
+        margin-top: 20px;
+        padding-left: 85px;
+    }
+}

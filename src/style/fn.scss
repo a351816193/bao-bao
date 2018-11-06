@@ -1,0 +1,31 @@
+
+@import './param.scss';
+.fn-clear       {overflow: hidden;clear: both;zoom: 1;}
+.fn-clear:after {content: '';width: 0;height: 0;}
+.fn-right   {float: right;}
+.fn-left    {float: left;}
+
+.fn-m-0     {margin: 0;}
+.fn-mr--8    {margin-right: -8px;}
+.fn-mr-5    {margin-right: 5px;}
+.fn-mr-10   {margin-right: 10px;}
+.fn-mr-30   {margin-right: 30px;}
+.fn-mr-50   {margin-right: 50px;}
+
+.fn-red     {color:$red;}
+.fn-blue    {color:$blue;}
+.fn-yellow    {color:$yellow;}
+
+.fn-bg-blue {background-color: $blue;}
+
+.fn-ff-light {font-family: $fontlight}
+
+.fn-relative {position: relative;}
+
+.fn-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
